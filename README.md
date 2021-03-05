@@ -14,6 +14,7 @@ GIỚI THIỆU VỀ CÁC TÁC VỤ TRONG ỨNG DUNG:
    - Manager quản lý thông tin nhân viên (Cook)
    - quản lý hóa đơn 
    - quản lý mã giảm giá 
+   
  ** Cook:
    - Quản lý đơn đặt hàng của khách hàng 
    - Điều chỉnh trạng thái đơn hàng ( Đang nấu/ Nấu xong / Hủy)
