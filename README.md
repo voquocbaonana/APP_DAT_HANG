@@ -9,6 +9,7 @@ GIỚI THIỆU VỀ CÁC TÁC VỤ TRONG ỨNG DUNG:
 - Sau khi nhấn Order (đặt món) thì khách hàng tiến đến giỏ hàng để thanh toán 
 - App chỉ mới thực hiện được thanh toán bằng quét mã QR của MoMo ( Thực hiện bằng app MoMo Test và vẫn có trừ tiền trên app)
 - App bao gồm cả phần quản lý cho Manager và Cook. 
+ 
  ** Manager:
   ( tài khoản: manager  / mật khẩu: 1) 
    - Manager quản lý thông tin nhân viên (Cook)
