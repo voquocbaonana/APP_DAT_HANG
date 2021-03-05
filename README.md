@@ -3,7 +3,7 @@ Màn hình gọi đồ ăn nước uống và thanh toán MoMo tại cửa hàng
 
 Phần code ở SmartFoodCourtSystem-master
 
-GIỚI THIỆU VỀ CÁC TÁC VỤ TRONG ỨNG DUNG:
+GIỚI THIỆU VỀ CÁC TÁC VỤ TRONG ỨNG DỤNG:
 - Đây là màn hình tự động đặt món và thanh toán trực tuyến tại cửa hàng thông minh
 - Màn hình sẽ có phần Menu và giỏ hàng cho khách hàng. Mặt hàng có đầy đủ thông tin và mã khuyến mãi 
 - Sau khi nhấn Order (đặt món) thì khách hàng tiến đến giỏ hàng để thanh toán 
