@@ -12,16 +12,20 @@ GIỚI THIỆU VỀ CÁC TÁC VỤ TRONG ỨNG DỤNG:
 - Ngoài ra thì khách hàng còn có phần gửi phản hồi cho nhà quản lí về các vấn đề về thức ăn, đồ uống hay không gian quán. 
  
  ** Manager:
+ 
   ( tài khoản: manager  / mật khẩu: 1) 
-   - Manager quản lý thông tin nhân viên (Cook)
+   - Manager quản lý thông tin nhân viên (Cook), menu 
    - quản lý hóa đơn 
    - quản lý mã giảm giá 
    
  ** Cook:
+ 
+ (tài khoản : cook / mật khẩu: 1)
    - Quản lý đơn đặt hàng của khách hàng 
    - Điều chỉnh trạng thái đơn hàng ( Hàng đợi/ Đang nấu / Đã xong)
    
  ** Video hướng dẫn:
+ 
   Phần đặt hàng: https://www.youtube.com/watch?v=8iaAcLQCr_c
   
   Phần quản lý : https://www.youtube.com/watch?v=X03RR6-jRoM 
