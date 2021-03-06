@@ -1,4 +1,4 @@
-# APP_DAT_HANG
+# ỨNG DỤNG ĐẶT MÓN VÀ TỰ THANH TOÁN CHO CỬA HÀNG THÔNG MINH
 Màn hình gọi đồ ăn nước uống và thanh toán MoMo tại cửa hàng thông minh (Cửa hàng khách tự chọn và tự phục vụ)
 
 Phần code ở SmartFoodCourtSystem-master
